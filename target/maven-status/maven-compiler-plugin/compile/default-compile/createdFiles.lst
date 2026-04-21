@@ -1,6 +1,0 @@
-com/saraswathi/controller/PersonController.class
-com/saraswathi/repository/PersonRepository.class
-com/saraswathi/config/DynamoDBConfig.class
-com/saraswathi/SpringDynamodbExampleApplication.class
-com/saraswathi/entity/Address.class
-com/saraswathi/entity/Person.class

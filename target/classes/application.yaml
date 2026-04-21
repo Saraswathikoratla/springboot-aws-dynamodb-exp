@@ -1,5 +1,0 @@
-server:
-  port: 5000
-spring:
-  application:
-    name: spring-dynamodb-example
