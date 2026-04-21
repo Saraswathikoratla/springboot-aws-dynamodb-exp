@@ -1,0 +1,6 @@
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/controller/PersonController.java
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/repository/PersonRepository.java
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/config/DynamoDBConfig.java
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/SpringDynamodbExampleApplication.java
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/entity/Address.java
+/Users/koratlasaraswathi/Documents/saraswathi/spring-dynamodb-example/src/main/java/com/saraswathi/entity/Person.java
